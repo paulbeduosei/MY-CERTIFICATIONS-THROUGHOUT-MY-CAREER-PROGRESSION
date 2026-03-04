@@ -1,4 +1,4 @@
-######📜 Professional Certifications & Continuous Learning
+📜 Professional Certifications & Continuous Learning
 
 This repository serves as a documented record of the professional certifications and credentials I have earned throughout my career progression.
 
